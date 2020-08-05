@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c667044-e1f6-4e0f-9dce-440657439c3f" name="Default Changelist" comment="之前瞎敲的代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="chen" />
+        <option value="chen-tju &lt;321913135@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eOrcafEUEpLinX9NbG7cuhBadH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RunManager" selected="Application.Exam2 (1)">
+    <configuration name="Exam2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam2.src.exam2.Exam2" />
+      <module name="Java_Pre" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam2.src.exam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam2.Exam2" />
+      <module name="Java_Pre" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exam2 (1)" />
+        <item itemvalue="Application.Exam2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c667044-e1f6-4e0f-9dce-440657439c3f" name="Default Changelist" comment="" />
+      <created>1594203561386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594203561386</updated>
+      <workItem from="1594203579497" duration="156000" />
+      <workItem from="1596550799881" duration="1450000" />
+      <workItem from="1596552558565" duration="2062000" />
+      <workItem from="1596594744263" duration="1315000" />
+      <workItem from="1596597953795" duration="1252000" />
+    </task>
+    <task id="LOCAL-00001" summary="之前瞎敲的代码">
+      <created>1596552175401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596552175401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="之前瞎敲的代码">
+      <created>1596552227247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596552227247</updated>
+    </task>
+    <task id="LOCAL-00003" summary="之前瞎敲的代码">
+      <created>1596552629388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596552629388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="之前瞎敲的代码">
+      <created>1596552725597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596552725597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="之前的瞎敲的代码" />
+    <MESSAGE value="之前瞎敲的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="之前瞎敲的代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="619" y="243" key="#Notifications" timestamp="1596551589191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="243" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596551589191" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1596595416939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596595416939" />
+    <state x="549" y="97" key="FileChooserDialogImpl" timestamp="1596595425851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="97" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596595425851" />
+    <state x="148" y="0" key="SettingsEditor" timestamp="1596598012252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="148" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596598012252" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1596552203006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596552203006" />
+    <state x="556" y="81" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1596552584350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="81" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1596552584350" />
+    <state x="178" y="22" key="new project wizard" timestamp="1594203734054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594203734054" />
+  </component>
+</project>

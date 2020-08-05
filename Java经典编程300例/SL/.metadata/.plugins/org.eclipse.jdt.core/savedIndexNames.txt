@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\java\学习资料\51CTO下载-Java经典编程300例\Java经典编程300例\SL\.metadata\.plugins\org.eclipse.jdt.core
+174898271.index
+3831684467.index
+2047232208.index
+2472930789.index
